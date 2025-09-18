@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif.gif" alt="Banner GIF" width="450px" height="399px" />
+  <img src="anlık-ben-10-new-alien.gif" alt="Banner GIF" width="450px" height="399px" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Harshit Bhandari</h1>
