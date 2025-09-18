@@ -25,26 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitbhandari23&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbhandari23&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbhandari23&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-## 🏆 Achievements & Badges  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitbhandari23&theme=matrix&no-frame=true&margin-w=5&margin-h=5" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/harshit-bhandari-7bba7b295)  
 - [Email](mailto:harshitbhandari518@gmail.com)  
