@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Harshit Bhandari</h1>
 
 <p align="center">
-  💻 Aspiring Data Scientist | 🤖 ML Enthusiast | 🧩 Problem Solver  
+  💻 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 🧩 Problem Solver  
 </p>
 
 ---
